@@ -3,6 +3,7 @@
 Amazon DeepRacer Machine Learning Project
 
 **Useful links:**
+
 AWS DeepRacer: <https://aws.amazon.com/deepracer/>
 
 AWS SageMaker: <https://aws.amazon.com/sagemaker/>
