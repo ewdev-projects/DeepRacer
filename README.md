@@ -15,3 +15,7 @@ Reinforcement Learning: <https://skymind.ai/wiki/deep-reinforcement-learning>
 Introduction to DeepRacer video: <https://pages.awscloud.com/Introduction-to-AWS-DeepRacer_1204-MCL_OD.html>
 
 Intel OpenVINO toolkit: <https://software.intel.com/en-us/openvino-toolkit>
+
+AWS Lex: <https://aws.amazon.com/lex/>
+
+AWS Polly: <https://aws.amazon.com/polly/>
