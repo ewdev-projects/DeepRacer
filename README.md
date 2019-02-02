@@ -19,3 +19,5 @@ Intel OpenVINO toolkit: <https://software.intel.com/en-us/openvino-toolkit>
 AWS Lex: <https://aws.amazon.com/lex/>
 
 AWS Polly: <https://aws.amazon.com/polly/>
+
+Tensorflow on AWS: <https://aws.amazon.com/tensorflow/>
